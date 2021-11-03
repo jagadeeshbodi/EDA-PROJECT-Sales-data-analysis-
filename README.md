@@ -6,9 +6,13 @@
 Answer the following questions using the clean dataset by plotting suitable graphs:
 
 4. What is the distribution of sales among different cities in different months?
+
 a. Which city had the highest sales overall?
+
 b. Which Month had the highest amount of sales overall?
+
 c. Most bought products per city.
+
 Based on your analysis, suggest a city for establishing a new branch for the retail store backed with proper reasoning.
 
 5. Find out the distribution of sales over different times of the day (Morning, Afternoon, Evening, Night) and answer the following for each city;
