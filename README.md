@@ -6,7 +6,6 @@
 Answer the following questions using the clean dataset by plotting suitable graphs:
 
 4. What is the distribution of sales among different cities in different months?
-
 a. Which city had the highest sales overall?
 
 b. Which Month had the highest amount of sales overall?
