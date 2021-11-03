@@ -16,8 +16,11 @@ c. Most bought products per city.
 Based on your analysis, suggest a city for establishing a new branch for the retail store backed with proper reasoning.
 
 5. Find out the distribution of sales over different times of the day (Morning, Afternoon, Evening, Night) and answer the following for each city;
+
 a. What products are mostly sold at different times of the day?
+
 b. Which time of day has the most sales?
+
 Based on your analysis, suggest the best working hours and the best products for the retail stores in each city.
 
 6. Find out the pair of products that are most sold together. For example, generally, we would expect a person who buys an iPhone 11 to also buy the Apple Airpods together with it. Identify such pairs of products and suggest what promotional offers should the retail company come up with based on your outcome.
